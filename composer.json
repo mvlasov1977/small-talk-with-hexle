@@ -1,0 +1,18 @@
+{
+    "name": "maxv/small-talk-with-hexlet",
+    "description": "Execute bin files",
+    "keywords": ["hexlet", "php", "composer"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mac",
+            "email": "mvlasov1977@gmail.com"
+        }
+    ],
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ],
+    "require": {}
+}
